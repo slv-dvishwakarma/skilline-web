@@ -6,7 +6,7 @@ export const OurApproach = () => {
     <div className="md:pb-[100px]">
       <ImageBox
         data={{
-          image: "/images/our-approach.jpg",
+          image: "/image/images/Our Approach 2.png",
           title: "Our Approach",
           description:
             "With the help of AI and gamification, we offer a unique learning journey personalized to each learner's desire and need. Our platform provides high-quality bilingual education with a unique competency-driven model tailored to career experience and confidence. We are new learning technology innovators.",
