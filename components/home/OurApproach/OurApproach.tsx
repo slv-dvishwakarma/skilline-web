@@ -3,14 +3,15 @@ import React from "react";
 
 export const OurApproach = () => {
   return (
-    <div className="md:pb-[100px]">
+    <div className="md:pb-[100px] md:mt-[30px]">
       <ImageBox
         data={{
-          image: "/image/images/Our Approach 2.png",
+          image: "/image/images/our-approach.jpeg",
           title: "Our Approach",
           description:
-            "With the help of AI and gamification, we offer a unique learning journey personalized to each learner's desire and need. Our platform provides high-quality bilingual education with a unique competency-driven model tailored to career experience and confidence. We are new learning technology innovators.",
-          style: "style-2",
+            "With the help of AI and gamification, we offer a unique learning journey personalized to each learner's desire and need. Our platform provides high-quality education in multiple Indian languages, considering regional cultures. ",
+          additional_description: "With a unique competency-driven model tailored to career experience and confidence, we are new learning technology innovators.",
+            style: "style-2",
         }}
         type="style-2"
       />

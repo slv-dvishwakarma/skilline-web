@@ -1,7 +1,8 @@
 import {
   HeroSlider,
-  OurImpact,
   OurVision,
+  OurImpact,
+  
   About,
   OurApproach,
   Stories,
@@ -22,9 +23,10 @@ export default function Home() {
   return (
     <main>
       <HeroSlider />
+      <OurApproach />
       <About />
       <OurVision />
-      <OurApproach />
+      
       <OurImpact />
       <Policies />
       <GuidingPrinciple />
